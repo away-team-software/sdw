@@ -5,62 +5,75 @@ var respecConfig = {
     //previousPublishDate: "2014-03-27",
     //previousMaturity: "FPWD",
     //previousURI: "http://www.w3.org/TR/2014/WD-tabular-data-model-20140327/",
-    edDraftURI: "https://w3c.github.io/sdw/ssn/",
+    edDraftURI: "https://w3c.github.io/sdw-sosa-ssn/ssn/",
     // lcEnd: "3000-01-01",
     // crEnd: "3000-01-01",
     editors: [
-	{
-		name: "Armin Haller",
-        company: "Australian National University",
-        companyURL: "https://www.cbe.anu.edu.au/"
-	},
-    {
-		name: "Krzysztof Janowicz",
-		company: "University of California, Santa Barbara",
-		companyURL: "http://geog.ucsb.edu/"
-	},
-	{
-	    name: "Simon Cox",
-        company: "CSIRO",
-        companyURL: "http://csiro.au/"
-	},
-	{
-	    name: "Danh Le Phuoc",
-		company: "Technical University of Berlin",
-		companyURL: "http://www.tu-berlin.de/"
-	},
-	{
-        name: "Kerry Taylor",
-        company: "Australian National University",
-        companyURL: "https://cecs.anu.edu.au/"
-    },
-	{
-	    name: "Maxime Lefrançois",
-        company: "École Nationale Supérieure des Mines de Saint-Étienne",
-        companyURL: "http://www.mines-stetienne.fr/"
-	}],
-	otherLinks: [
       {
-      key: "Contributors (ordered alphabetically)",
-      data: [
-      {
-        value: "Rob Atkinson, Metalinkage"
-      },{
-        value: "Raúl García-Castro, Universidad Politécnica de Madrid"
-      },{
-        value: "Joshua Lieberman, Tumbling Walls"
-      },{
-        value: "Claus Stadler, Universität Leipzig"
-      }]
+        name: "Simon J D Cox",
+        orcid: "0000-0002-3884-3420"
       },
       {
-      key: "OGC Document Number",
-      data: [
+        name: "Maxime Lefrançois",
+        company: "École Nationale Supérieure des Mines de Saint-Étienne",
+        companyURL: "https://www.mines-stetienne.fr/",
+        orcid: "0000-0001-9814-8991"
+      },
       {
-        value: "OGC 16-079"
-      }]
-    }],
-    wg: "Spatial Data on the Web Working Group",
+        name: "Krzysztof Janowicz",
+        company: "Universität Wien",
+        companyURL: "https://www.univie.ac.at/",
+        orcid: "0009-0003-1968-887X"
+      }],
+    formerEditors: [
+      {
+        name: "Armin Haller",
+        company: "Australian National University",
+        companyURL: "https://www.cbe.anu.edu.au/",
+        orcid: "0000-0003-3425-0780"
+      },
+      {
+        name: "Danh Le Phuoc",
+        company: "Technical University of Berlin",
+        companyURL: "http://www.tu-berlin.de/",
+        orcid: "0000-0003-2480-9261"
+      },
+      {
+        name: "Kerry Taylor",
+        company: "Australian National University",
+        companyURL: "https://cecs.anu.edu.au/",
+        orcid: "0000-0003-2447-1088"
+      }],
+    otherLinks: [
+      {
+        key: "Contributors (ordered alphabetically)",
+        data: [
+          {
+            value: "Rob Atkinson, Metalinkage"
+          }, {
+            value: "Luis de Sousa, ISRIC"
+          }, {
+            value: "Sylvain Grellet, BRGM"
+          }, {
+            value: "Kathi Schleidt, Datacove"
+          }, {
+            value: "Hylke van der Schaaf, Fraunhofer IOSB"
+          }, {
+            value: "Rob Warren, Glengarry Agriculture and Farming"
+          }]
+      },
+      {
+        key: "Previous Contributors (ordered alphabetically)",
+        data: [
+          {
+            value: "Raúl García-Castro, Universidad Politécnica de Madrid"
+          }, {
+            value: "Joshua Lieberman, Tumbling Walls"
+          }, {
+            value: "Claus Stadler, Universität Leipzig"
+          }]
+      }],
+      wg: "Spatial Data on the Web Working Group",
     wgURI: "https://www.w3.org/2015/spatial/",
     wgPublicList: "public-sdw-comments",
     wgPatentURI: "https://www.w3.org/2004/01/pp-impl/75471/status",
