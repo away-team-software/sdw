@@ -4,9 +4,13 @@
 
 This is the repository for the <a href="https://www.w3.org/2021/sdw/">Spatial Data on the Web Working Group</a>, a collaborative project between <a href="http://www.w3.org/">W3C</a> and <a href="http://www.opengeospatial.org/">OGC</a>.
 
-The repo is used for developing editors drafts of the Working Group's <a href="https://www.w3.org/2021/10/sdw-charter.html#deliverables">deliverables</a> and related resources.
+The repo has been used for developing editors drafts of the Working Group's <a href="https://www.w3.org/2021/10/sdw-charter.html#deliverables">deliverables</a> and related resources.
 
-Please note that the Working Group follows in the footsteps of the <a href="https://www.w3.org/2017/sdwig/">Spatial Data on the Web Interest Group</a> and the <a href="https://www.w3.org/2015/spatial/">Spatial Data on the Web Working Group</a>, and some of the material in this repository was initially developed and published by these predecessors.
+The Working Group follows in the footsteps of the <a href="https://www.w3.org/2017/sdwig/">Spatial Data on the Web Interest Group</a> and the <a href="https://www.w3.org/2015/spatial/">Spatial Data on the Web Working Group</a>, and some of the material in this repository was initially developed and published by these predecessors.
+
+## SSN New Edition
+
+Work on a **new edition of the [Semantic Sensor Network (SSN) Ontology](https://www.w3.org/TR/vocab-ssn/)** is in a separate repo: [https://github.com/w3c/sdw-sosa-ssn](https://github.com/w3c/sdw-sosa-ssn). 
 
 ## References
 
